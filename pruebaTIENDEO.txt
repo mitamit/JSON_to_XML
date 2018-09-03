@@ -1,0 +1,20 @@
+Tenemos un archivo "stores.json" que contiene información de varias tiendas. Esa información nos interesa estructurarla y guardarla en lenguaje XML.
+El objetivo de esta prueba es crear pequeño script en PHP que lea los datos del archivo "stores.json" y los convierta al lenguaje XML.
+
+En la carpeta tenemos los siguientes archivos:
+
+- stores.json: Contiene la información de las tiendas.
+- output.xml: Es el fichero de salida, donde la aplicación PHP tiene que guardar la info con la estructura de un XML.
+- example_output.xml: Ejemplo de cómo se debería ver el resultado 
+- code.php: Aquí es donde tienes que rellenar con el código PHP, puedes hacerlo como quieras.. tienes una pequeña guía comentada dentro del code.php.
+
+
+Escribe una aplicación en PHP "code.php" que devuelva esa información estructurada en el XML "output.xml" (Mirar ejemplo de XML: example_output.xml).
+
+
+
+
+*Para poder realizar la prueba necesitas tener instalada una versión de PHP. Y para ejecutarlo, abrir el CMD y añadir el path del "php.exe" y el path del "code.php".
+
+Ej: 
+C:\>"C:\Program Files (x86)\PHP\v5.6.30\php.exe" C:\test_php\code.php 

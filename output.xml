@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<bot>
+<store><address value="ALGARHEIMSVN. 77, 2056 JESSHEIM" />
+<phonenumber value="63936720" />
+<coordinates lat="60.140573" lon="11.211235" />
+<id value="1" />
+
+</store><store><address value="NANNESTADVEGEN 507, 2032 MAURA" />
+<phonenumber value="63999295" />
+<coordinates lat="60.254" lon="11.0271" />
+<id value="2" />
+
+</store><store><address value="Cathinka Guldbergs veg 5, 2034 HOLTER" />
+<phonenumber value="63998582" />
+<coordinates lat="60.135569" lon="11.023327" />
+<id value="3" />
+
+</store><store><address value="TRONDHEIMSVN. 85, 2050 JESSHEIM" />
+<phonenumber value="63977731" />
+<coordinates lat="60.145679" lon="11.169969" />
+<id value="3" />
+
+</store><store><address value="MELKEVEIEN 19, 2165 HVAM" />
+<phonenumber value="63907898" />
+<coordinates lat="60.121" lon="11.3405" />
+<id value="4" />
+
+</store><store><address value="GLABAKKVEIEN 1, 2070 RÅHOLT" />
+<phonenumber value="63959500" />
+<coordinates lat="60.2828" lon="11.1722" />
+<id value="5" />
+
+</store><store><address value="HERREDSVEGEN 4, 2120 SAGSTUA" />
+<phonenumber value="62978870" />
+<coordinates lat="60.3975" lon="11.5325" />
+<id value="6" />
+
+</store></bot>
